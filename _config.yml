@@ -1,0 +1,28 @@
+name: Osseocare
+favicon: null
+layout_spectrum: 0.39436372043564916
+typography_spectrum: 0.28859982546418905
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5054926862940192
+  lightness: 0.6782355480827391
+  saturation: 0.3035413168836385
+  rhythmicContrast: 0.5531857626046985
+purpose: []
