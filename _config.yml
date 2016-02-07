@@ -1,7 +1,7 @@
 name: Osseocare
 favicon: null
 layout_spectrum: 0.39436372043564916
-typography_spectrum: 0.28859982546418905
+typography_spectrum: 0.35108
 title: REHAB
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.5054926862940192
+  brandStrength: 0.5
   lightness: 0.6782355480827391
   saturation: 0.3035413168836385
   rhythmicContrast: 0.5531857626046985
