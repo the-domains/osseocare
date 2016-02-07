@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Osseocare]]></title>
         <description><![CDATA[Osseocare]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/osseocare/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 13:43:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 13:43:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/osseocare/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hinged knee cap]]></title>
+            <description><![CDATA[<article><h1>hinged knee cap</h1><p>knee cap used for osteo arthritis pain and general knee pain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c7df49b3f1e139766f015febc049181445a8ed6.png"></article>]]></description>
+            <link>https://thegrid.ai/osseocare/hinged-knee-cap/index.html</link>
+            <guid isPermaLink="false">02ffc965-8110-45fb-9dc4-635744134c54</guid>
+            <pubDate>Sun, 07 Feb 2016 13:43:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CERVICAL COLLAR WITH CHIN SUPPORT(HARD)]]></title>
             <description><![CDATA[<article><h1>CERVICAL COLLAR WITH CHIN SUPPORT(HARD)</h1><p>cervical spine injury,muscle spasm,post operative immobilization of cervical spine in flexed position</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaa5c20974bfde75216edb4de95e868f383dd03c.png"></article>]]></description>
-            <link>undefinedcervical-collar-with-chin-supporthard/index.html</link>
+            <link>https://thegrid.ai/osseocare/cervical-collar-with-chin-supporthard/index.html</link>
             <guid isPermaLink="false">d009f4d6-d779-49c2-b733-0e8c5bc05351</guid>
             <pubDate>Sun, 07 Feb 2016 13:43:33 GMT</pubDate>
         </item>
