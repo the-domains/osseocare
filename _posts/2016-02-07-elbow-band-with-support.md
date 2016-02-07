@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T14:06:40.753Z'
-dateModified: '2016-02-07T14:06:30.893Z'
+datePublished: '2016-02-07T14:36:10.428Z'
+dateModified: '2016-02-07T14:35:57.005Z'
 title: elbow band with support
 author: []
+sourcePath: _posts/2016-02-07-elbow-band-with-support.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-07-elbow-band-with-support.md
-published: true
 url: elbow-band-with-support/index.html
 _type: Article
 
